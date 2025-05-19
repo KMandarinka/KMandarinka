@@ -30,6 +30,10 @@
    <img src="https://media.giphy.com/media/LnUt9rYV3eDcIzvpJh/giphy.gif" width="20"> Интерактивный дашборд на Plotly  
    `Dash` `Plotly` `Pandas`
 
+3. **[ECG Analysis Frontend](https://github.com/KMandarinka/ecg-front)**  
+   <img src="https://media.giphy.com/media/fsE3ZQNp8QjQpQvC7a/giphy.gif" width="20"> Фронтенд для визуализации ЭКГ-данных  
+   `React` `JavaScript`  `HTML` `CSS` 
+
 ### 📊 Моя статистика
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KMandarinka&show_icons=true&theme=radical" width="400">
@@ -49,16 +53,3 @@ class Katrine:
     def say_hello(self):
         print("Давайте создавать крутые проекты вместе!")
 <!--
-**KMandarinka/KMandarinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
