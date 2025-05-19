@@ -21,11 +21,11 @@
 ---
 
 ### 🔥 Мои топ-проекты
-1. **[Detecting Pulmonary Hypertension with Gradient Boosting]([https://github.com/KMandarinka/PH-Detection](https://github.com/KMandarinka/busting))**  
+1. **[Detecting Pulmonary Hypertension with Gradient Boosting]([https://github.com/KMandarinka/busting](https://github.com/KMandarinka/busting))**  
    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="20"> Модель CatBoost для анализа ЭКГ  
    `Python` `CatBoost` `Biomedical Signal Processing`
 
-2. **[Medical Data Visualization Dashboard]([https://github.com/KMandarinka/Med-Viz](https://github.com/KMandarinka/NIRS))**  
+2. **[Medical Data Visualization Dashboard]([https://github.com/KMandarinka/NIRS](https://github.com/KMandarinka/NIRS))**  
    <img src="https://media.giphy.com/media/LnUt9rYV3eDcIzvpJh/giphy.gif" width="20"> Интерактивный дашборд на Plotly  
    `Dash` `Plotly` `Pandas`
 
