@@ -11,12 +11,40 @@
 
 ### 🛠️ Мой стек технологий
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/CatBoost-FF6F00?logo=yandex&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25">
+  <!-- Языки программирования и среды -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"> <!-- используется во всех проектах, в том числе для обработки данных и обучения моделей -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"> <!-- для фронтенда в проекте ecg-front -->
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" height="25"> <!-- хранилище и запросы к данным в проектах с БД -->
+
+  <!-- Машинное обучение и библиотеки для анализа данных -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"> <!-- нейросетевые модели (busting) -->
+  <img src="https://img.shields.io/badge/CatBoost-FF6F00?logo=yandex&logoColor=white" height="25"> <!-- градиентный бустинг для анализа ЭКГ (busting) -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"> <!-- доп. алгоритмы ML, работа с набором функций (busting, NIRS) -->
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="25"> <!-- численные вычисления и работа с матрицами -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="25"> <!-- обработка табличных данных (NIRS, busting) -->
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" height="25"> <!-- научные вычисления, фильтрация сигналов (busting) -->
+
+  <!-- Визуализация данных -->
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" height="25"> <!-- интерактивные графики (NIRS) -->
+  <img src="https://img.shields.io/badge/Dash-008DE4?logo=plotly&logoColor=white" height="25"> <!-- веб‐дашборд для визуализации медицинских данных (NIRS) -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" height="25"> <!-- статические графики и отладка (busting, NIRS) -->
+
+  <!-- Веб-разработка (frontend) -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="25"> <!-- фронтенд для отображения ЭКГ-данных (ecg-front) -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25"> <!-- верстка интерфейса (ecg-front) -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25"> <!-- стилизация интерфейса (ecg-front) -->
+
+  <!-- Инструменты и среда разработки -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25"> <!-- контроль версий везде -->
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" height="25"> <!-- интерактивная разработка и эксперименты с данными -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"> <!-- контейнеризация (при необходимости) -->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" height="25"> <!-- основная IDE -->
+
+  <!-- Дополнительные технологии -->
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="25"> <!-- лёгкий бэкенд при создании дашборда (при необходимости) -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="25"> <!-- быстрая верстка (ecg-front, NIRS при стилях) -->
 </p>
+
 
 ---
 
